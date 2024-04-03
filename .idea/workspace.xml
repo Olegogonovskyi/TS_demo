@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b03ce901-79e1-4946-93f3-e0657787c5ce" name="Changes" comment="11">
-      <change afterPath="$PROJECT_DIR$/less1/less_1_hw/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less1/less_1_hw/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/less1/less_1_hw/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,9 @@
       <workItem from="1710856733854" duration="3418000" />
       <workItem from="1710945951001" duration="2330000" />
       <workItem from="1711994563340" duration="3432000" />
-      <workItem from="1712060692889" duration="3535000" />
+      <workItem from="1712060692889" duration="3966000" />
+      <workItem from="1712128680200" duration="1312000" />
+      <workItem from="1712146660421" duration="6892000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <option name="closed" value="true" />
@@ -108,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711999692521</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="11">
+      <option name="closed" value="true" />
+      <created>1712078005928</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078005928</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
